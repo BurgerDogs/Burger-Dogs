@@ -712,7 +712,7 @@
             msg += "%0AGracias 😊";
 
             window.open(
-                "https://wa.me/573108580801?text=" + msg
+                "https://wa.me/573103863132?text=" + msg
             );
         }
 
